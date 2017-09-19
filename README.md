@@ -1,9 +1,10 @@
-# Git Branching and Merging Tutorial
+# Git Branching and Merging (and CSS!) Tutorial
 
 **Don't do this if you haven't completed your Angular tutorial.**
 
 ## What To Do:
-* Create a branch off of this current branch, and style the CSS to make the application your own 
+* Create a branch off of this current branch (<name>-angular)
+* Style the CSS to make the application your own 
 * Get familiar with the pull -> add -> commit -> push workflow
 * Be creative with your styling!
 
