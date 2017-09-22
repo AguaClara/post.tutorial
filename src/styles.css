@@ -1,12 +1,14 @@
 /* Master Styles */
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
 h1 {
   color: #369;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Montserrat, Helvetica, sans-serif;
   font-size: 250%;
 }
 h2, h3 {
   color: #444;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Montserrat, Helvetica, sans-serif;
   font-weight: lighter;
 }
 body {
@@ -21,7 +23,7 @@ a {
   cursor: hand;
 }
 button {
-  font-family: Arial;
+  font-family: Montserrat;
   background-color: #eee;
   border: none;
   padding: 5px 10px;
@@ -61,5 +63,5 @@ nav a.active {
 
 /* everywhere else */
 * {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Montserrat, Helvetica, sans-serif;
 }
